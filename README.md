@@ -104,9 +104,11 @@ LinkedIn: https://www.linkedin.com/in/helioguilherme/
 
 Email: helio@nowgo.com.br
 
-NowGo Websites: www.nowgo.com.br | www.nowgoai.com
+NowGo Websites: www.nowgo.com.br | www.nowgoai.com 
 
 StartES Website: www.fabricastartes.com.br
 
 Twinverse Studios Website: https://twinversestudios.cloud/
+
+Earth Guard: https://earth-guard.online/
 -->
