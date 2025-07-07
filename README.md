@@ -104,7 +104,7 @@ LinkedIn: https://www.linkedin.com/in/helioguilherme/
 
 Email: helio@nowgo.com.br
 
-NowGo Websites: www.nowgo.com.br | www.nowgoai.com 
+NowGo Websites: www.nowgo.com.br | www.nowgoai.com | https://www.nowgomedai.com/
 
 StartES Website: www.fabricastartes.com.br
 
