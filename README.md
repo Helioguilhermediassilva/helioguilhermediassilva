@@ -40,7 +40,7 @@ NowGo maintains an institutional partnership with the Catholic University of Bra
 
 NowGo and StartES Reach:
 
-Over 50 active collaborators.
+Over 100 active collaborators.
 
 Partnerships with NVIDIA, MindStudio, Bluefields, and the Catholic University.
 
